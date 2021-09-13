@@ -1,0 +1,327 @@
+@charset "utf-8";
+/* CSS Document */
+
+.nen
+{
+   width: 100%;
+   height: 6000px;
+   background-color: bisque;
+    
+}
+
+.logomenu
+{
+   width: 100%;
+   height: 600px;
+   background-image: url("../images/228c5d22deee28b071ff.jpg");
+   
+}
+
+.logo
+{
+   
+   float: left;
+   color: dimgrey;
+   padding: 15px 50px;
+   box-sizing: border-box;
+}
+
+.menu
+{
+   width: 60%;
+   height: 70px;
+   float: right; 
+   
+   
+}
+
+.menu ul
+{
+  padding: -50px;
+  list-style: none; 
+  
+   
+} 
+
+.menu ul li
+{
+  padding: 10px;
+  float:left;
+  position:relative;
+}
+
+.menu ul li a
+{
+  text-decoration: none;
+  color: dimgrey;
+}
+
+.menu ul li:hover
+{
+    border-bottom: 2px solid #111111
+  
+}
+
+.menu ul li ul
+{
+  position: absolute;
+  left: -40px;
+  top: 79px;
+  visibility: hidden;
+}
+
+.menu ul li ul li
+{
+  width: 90px;
+  background-color: gainsboro;
+  color: dimgrey;
+}
+
+.menu ul li:hover ul
+{
+  visibility: visible;
+    
+}
+.newcollection
+{
+  width: 100%;
+  height: 190px;
+  background-color: gainsboro;
+  float:left;
+}
+.collection
+{
+  width: 100%;
+  height: 300px;
+  float:left;
+  color:darkslategray;
+  text-align: center;
+  margin: 0px 20px 30px 20px;  
+}
+
+.bgrhinha
+{
+  width: 100%;
+  height: 900px;
+  background-color: gainsboro;
+  float:left;
+}
+.tronga
+{
+   width:100%;
+   height: 40px;
+   background-color: gainsboro;
+   float:left;
+}
+.bgrhinhboa
+{
+    width: 100%;
+    height: 770px;
+    float:left;
+    background-color: darkgrey;
+}
+.hinhboa_a
+{
+    width: 50%;
+    height: 780px;
+    float:left;
+    padding: 0px 80px 0px 80px;
+    box-sizing: border-box;
+}
+.hinhboa_anho
+{
+    width: 40%;
+    height: 300px;
+    float:right;
+    margin: 40px 60px 10px -10px;
+    background-size: cover; 
+    box-sizing: border-box;
+}
+.Storytelling
+{
+   width:100%;
+   height: 240px;
+   background-color: gainsboro;
+   float:left;
+   color:darkslategray;
+   text-align: center;
+   padding:30px;
+   box-sizing: border-box;
+}
+.bgrhinhb
+{
+  width: 100%;
+  height: 900px;
+  background-color: gainsboro;
+  float:left;
+}
+.trongb
+{
+   width:100%;
+   height: 50px;
+   background-color: gainsboro;
+   float:left;
+}
+.bgrhinhbob
+{
+    width: 100%;
+    height: 600px;
+    float:left;
+    background-color: darkgrey;
+}
+.hinhbob_b
+{
+    width: 33.3%;
+    height: 600px;
+    float:left;
+    padding: 0px 80px 0px 80px;
+    box-sizing: border-box;
+    background-color: darkgrey;
+    color:darkslategray;
+}
+.hinhbob_bb
+{
+    width: 33.3%;
+    height: 600px;
+    float:left;
+    padding: 0px -9px 0px 20px;
+    box-sizing: border-box;
+    background-color: darkgrey;
+}
+.trongc
+{
+   width:100%;
+   height: 40px;
+   background-color: darkgrey;
+   float:left;
+}
+.bgrhinhbobnho
+{
+    width: 100%;
+    height: 378px;
+    float:left;
+    background-color: darkgrey;
+}
+.hinhbobnho1
+{
+    width: 24%;
+    height: 378px;
+    float:left;
+    background-color: darkgrey;
+    margin: 0px 40px 0px 100px;
+    box-sizing: border-box;
+}
+.hinhbobnho2
+{
+    width: 24%;
+    height: 378px;
+    float:left;
+    background-color: darkgrey;
+    margin: 0px 0px 0px -60px;
+    box-sizing: border-box;
+}
+.hinhbobnho3
+{
+    width: 24%;
+    height: 378px;
+    float:left;
+    background-color: darkgrey;
+    margin: 0px 0px 0px -60px;
+    box-sizing: border-box;
+}
+.hinhbobnho4
+{
+    width: 24%;
+    height: 378px;
+    float:left;
+    background-color: darkgrey;
+    margin: 0px 70px 0px -50px;
+    box-sizing: border-box;
+}
+.trongd
+{
+   width:100%;
+   height: 30px;
+   background-color: darkgrey;
+   float:left;
+}
+.bgrhinhbob_bnho
+{
+    width: 100%;
+    height: 500px;
+    float:left;
+    background-color: darkgrey;
+}
+.hinhbob_bnho1
+{
+    width: 33.3%;
+    height: 378px;
+    float:left;
+    background-color: darkgrey;
+    margin: 0px -40px 0px 50px;
+    box-sizing: border-box;
+}
+
+.hinhbob_bnho2
+{
+    width: 33.3%;
+    height: 378px;
+    float:right;
+    background-color: darkgrey;
+    margin: 0px 30px 0px -30px;
+    box-sizing: border-box;
+}
+.hinhbob_bnho3
+{
+    width: 33.3%;
+    height: 378px;
+    float:right;
+    background-color: darkgrey;
+    margin: 0px 40px 0px -70px;
+    box-sizing: border-box;
+}
+.thuonghieu
+{
+    width: 100%;
+    height: 450px;
+    float:left;
+    background-color: gainsboro;
+    
+}
+.thuonghieulogo
+{
+    width: 30%;
+    height: 500px;
+    float:left;
+    padding:30px;
+    margin: 20px 0px 20px 0px;
+    box-sizing: border-box;
+    
+}
+.thuonghieulogo2
+{
+    width: 70%;
+    height: 500px;
+    padding:60px;
+    box-sizing: border-box;
+    float:left;
+    color:darkslategray; 
+}
+.follow
+{
+    width: 100%;
+    height: 250px;
+    float:left;
+    background-color: darkgrey;
+    color:darkslategray;
+}
+.thankyou
+{
+    width: 100%;
+    height: 100px;
+    float:left;
+    background-color: darkgrey;
+    color:darkslategray;
+}
+
+
